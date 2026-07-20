@@ -3,7 +3,7 @@
 
 ---
 ## 👩‍💻 About Me
-Third year Software Engineering student interested in AI and Backend development.
+Third year Software Engineering student interested in AI and Software development.
 
 ---
 ## 🛠️ Tech Stack
